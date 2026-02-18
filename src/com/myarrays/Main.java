@@ -25,7 +25,7 @@ public class Main {
         // Printing 4th row of array.
         for (double element : array[4]) {
 
-            System.out.print(element + " "); // Output:
+            System.out.print(element + " "); // Output: 2.0 9.1 3.5 7.8 3.2
 
         }
     }
